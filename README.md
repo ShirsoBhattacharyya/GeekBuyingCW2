@@ -31,7 +31,7 @@ Geekbuying is an online retailer of electronic devices & accessories. Product ca
   
 ## Features
 - ### Sign up and Sign in 
-  This website allows users to create their own account and sign in using the required email id and passowrd. If the required details are missing, the user won't be able to login into the website. Without the users signed in, the user would not be able to purchase a product from the website.
+  This website allows users to create their own account and sign in using the required email id and password. If the required details are missing, the user won't be able to login into the website. Without the users signed in, the user would not be able to purchase a product from the website.
 - ### Home page
   The landing page is the most important page of any ecommerce website. It helps the user navigate through all the trending offers and gift coupons to purchase products at discounted rates. Also there is relevant information regarding all the variety of products available in each and every sub-section.
 - ### Product page
